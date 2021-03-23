@@ -1,0 +1,1 @@
+import "./test/test-intersection2"
